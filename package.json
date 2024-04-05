@@ -1,0 +1,22 @@
+{
+  "name": "netlify-node",
+  "version": "1.0.0",
+  "description": "PHP on AWS Lambda or Netlify",
+  "keywords": [
+    "php",
+    "netlify"
+  ],
+  "homepage": "https://github.com/devsolux/netlify-node",
+  "main": "src/index.js",
+  "author": "Baris Aydin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devsolux/netlify-node.git"
+  },
+  "dependencies": {
+    "isbinaryfile": "^5.0.2",
+    "node-fetch": "^3.3.2",
+    "wait-on": "^7.2.0"
+  }
+}
