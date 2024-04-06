@@ -14,3 +14,10 @@ exports.handler = async function (event, context, callback) {
   return await netlify_node({ docRoot: pathToWP, event: event });
 }
 ```
+
+## NPM
+
+```bash
+npm login
+npm publish
+```
