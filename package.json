@@ -15,8 +15,8 @@
     "url": "https://github.com/devsolux/netlify-node.git"
   },
   "dependencies": {
-    "isbinaryfile": "^5.0.2",
-    "node-fetch": "^3.3.2",
-    "wait-on": "^7.2.0"
+    "isbinaryfile": "^5.0.0",
+    "node-fetch": "^2.6.9",
+    "wait-on": "^7.0.1"
   }
 }
